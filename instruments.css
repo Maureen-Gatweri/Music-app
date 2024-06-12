@@ -1,0 +1,18 @@
+.all-guitars{
+   display: flex;
+}
+img{
+    height: 280px;
+    width: 280px;
+    justify-items: center;
+    align-items: baseline;
+}
+figcaption{
+    margin-left: 30px;
+}
+.instrument{
+    display: flex;
+}
+figcaption{
+    justify-content: center;
+}
